@@ -13,7 +13,7 @@ Siga os passos abaixo para utilizar o exemplo:
 1. Clone o repositório:
 ```bash
 git clone https://github.com/Alexandregabriell/design-patterns.git
-cd design-patterns
+cd design-patterns && cd criacional && cd factory-method
 ```
 2. Execute o projeto usando o Maven:
 ```bash
@@ -21,11 +21,11 @@ mvn spring-boot:run
 ```
 3. A saída será a geração do relatório em PDF e em CSV:
 ```css
-Gerando relatório em PDF...
+Generating report in PDF...
 
 ou
 
-Gerando relatório em CSV...
+Generating report in CSV...
 ```
 
 ## Como Funciona
