@@ -6,11 +6,11 @@ Os padrões de projeto foram popularizados pelo livro "Design Patterns: Elements
 
 Os padrões de projeto são classificados em três categorias principais:
 
-1. *Padrões de Criação:* Esses padrões lidam com a criação de objetos, abstraindo o processo de instanciar objetos para torná-lo mais flexível e independente da implementação específica. Exemplos: Factory Method, Abstract Factory, Singleton, Builder, Prototype.
+1. **Padrões de Criação:** Esses padrões lidam com a criação de objetos, abstraindo o processo de instanciar objetos para torná-lo mais flexível e independente da implementação específica. Exemplos: Factory Method, Abstract Factory, Singleton, Builder, Prototype.
 
-2. *Padrões Estruturais:* Esses padrões lidam com a estruturação de classes e objetos, visando simplificar a interação e a composição entre eles. Eles ajudam a organizar as relações entre classes e a garantir que as mudanças na estrutura não afetem o código existente. Exemplos: Adapter, Bridge, Composite, Decorator, Facade, Flyweight, Proxy.
+2. **Padrões Estruturais:** Esses padrões lidam com a estruturação de classes e objetos, visando simplificar a interação e a composição entre eles. Eles ajudam a organizar as relações entre classes e a garantir que as mudanças na estrutura não afetem o código existente. Exemplos: Adapter, Bridge, Composite, Decorator, Facade, Flyweight, Proxy.
 
-3. *Padrões Comportamentais:* Esses padrões tratam do comportamento de objetos e da comunicação entre eles. Eles fornecem soluções para problemas como comunicação entre objetos, gerenciamento de estados e comportamentos variáveis. Exemplos: Observer, Strategy, Template Method, Command, State, Chain of Responsibility, Visitor, Interpreter, Memento.
+3. **Padrões Comportamentais:** Esses padrões tratam do comportamento de objetos e da comunicação entre eles. Eles fornecem soluções para problemas como comunicação entre objetos, gerenciamento de estados e comportamentos variáveis. Exemplos: Observer, Strategy, Template Method, Command, State, Chain of Responsibility, Visitor, Interpreter, Memento.
 
 Cada padrão de projeto possui uma descrição detalhada, estrutura, aplicabilidade e exemplos de uso. Eles são amplamente utilizados na indústria de desenvolvimento de software para resolver problemas recorrentes e criar códigos mais coesos, flexíveis e fáceis de entender e manter.
 
